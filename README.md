@@ -37,5 +37,5 @@ When the market value of the property is lower than the Predicted Sale Price, it
 Python
 
 # Data Sets Used
-dtrain.csv - Contains all data for analysis
+train.csv - Contains all data for analysis
 data_description.txt - Contains the metadata
